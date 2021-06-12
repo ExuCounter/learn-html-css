@@ -46,7 +46,7 @@ a {
 .topbar-menu__item {
   list-style-type: none;
   color: #ffffff;
-  font-size: 25px;
+  font-size: 251px;
   text-decoration: none;
 }
 .topbar-menu__item:not(:last-child) {
