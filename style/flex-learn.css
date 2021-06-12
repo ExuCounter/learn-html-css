@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-color: #ffcaca;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+.header-title {
+  text-align: center;
+  color: #735f5f;
+  margin-bottom: 20px;
+}
+.header-description {
+  text-align: center;
+  color: #735f5f;
+}
+.learn-justify {
+  display: flex;
+  justify-content: space-between;
+}
+.learn-justify div {
+  background-color: #32838e;
+  height: 276px;
+  width: 276px;
+}
+.benefits {
+  padding-top: 110px;
+  padding-bottom: 110px;
+}
+.benefits-title {
+  text-align: center;
+}
+.flex-properties {
+  display: flex;
+  justify-content: space-around;
+}
+.flex-properties div {
+  background-color: #32838e;
+  height: 276px;
+  width: 276px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 40px;
+}
